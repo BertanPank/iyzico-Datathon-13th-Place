@@ -15,7 +15,7 @@ Fikirler faydalı olabilir ama aradığınız şey temiz kodsa bu repodan uzak d
 
 [EN]
 
-The code is extremely cluttered and contains many ideas that are both used and unused.
+The code is extremely dirty and contains many ideas that are both used and unused.
 
 The ideas might be useful, but if you're looking for clean code, I would advise staying away from this repo :D
 
