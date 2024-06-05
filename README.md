@@ -5,6 +5,7 @@ Competition Link: https://www.kaggle.com/competitions/iyzico-datathon/leaderboar
 Result: 13th/328
 
 !!!
+
 [TR]
 
 Kod aşırı derecede dağınık ve içinde kullanılan ve kullanılmayan birçok fikir bulunduruyor.
